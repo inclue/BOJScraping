@@ -1,4 +1,5 @@
 #Get School BOJ ID
+#학교에 속한 모든 BOJ 회원 조회
 
 import requests
 import re
