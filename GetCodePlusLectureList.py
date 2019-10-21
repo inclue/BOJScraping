@@ -1,3 +1,6 @@
+# Get code.plus Lecture List
+# cod.plus의 강의별 문제 목록을 크롤링
+
 import requests
 from bs4 import BeautifulSoup
 
